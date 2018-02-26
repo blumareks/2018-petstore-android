@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">jPetStoreK8s</string>
+    <string name="perm_read_label">Allow File Read</string>
+</resources>
